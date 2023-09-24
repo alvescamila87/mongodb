@@ -14,8 +14,8 @@ my_collection = my_database.posts
 
 # 5 - Criar post
 post1 = {
-    "title": "FastAPI",
-    "category": "Backend",
+    "title": "PowerBI",
+    "category": "Data Analysis",
     "author": {
         "name": "Rodrigo",
         "email": "rodrigo@gmail.com"

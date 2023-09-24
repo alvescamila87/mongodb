@@ -1,4 +1,4 @@
-# 1 - Importar pymongo
+# 1 - Importar pymongo e pprint
 from pymongo import MongoClient
 from pprint import pprint
 
